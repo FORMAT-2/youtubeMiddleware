@@ -30,6 +30,6 @@
         "build"
     ],
     "include": [
-        "src/**/*"
+        "app/**/*"
     ]
 }
